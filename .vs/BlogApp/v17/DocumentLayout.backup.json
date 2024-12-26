@@ -42,8 +42,7 @@
               "RelativeToolTip": "BlogAppBusiness\\Services\\Implementations\\CategoryService.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAUwDcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:45:44.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T07:45:44.679Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "BlogAppBusiness\\Mapper\\AutoMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:44:00.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T07:44:00.999Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "BlogAppBusiness\\DTOs\\Category\\CreateCategoryDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:40:39.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T07:40:39.653Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "BlogAppBusiness\\DTOs\\Category\\UpdateCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:39:47.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T07:39:47.676Z"
             },
             {
               "$type": "Document",
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "BlogApp\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BlogApp\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wDQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T07:38:51.278Z",
               "EditorCaption": ""

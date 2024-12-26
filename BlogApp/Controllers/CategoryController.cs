@@ -55,5 +55,19 @@ namespace BlogApp.Controllers
                 throw new Exception(ex.Message);
             }
         }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+                await categoryService.Delete(id);
+                return Ok();
+            }
+
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
     }
 }

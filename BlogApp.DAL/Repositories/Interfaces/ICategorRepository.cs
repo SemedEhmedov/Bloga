@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace BlogApp.DAL.Repositories.Interfaces
 {
-    public interface ICategorRepository:IRepository<Category>
+    public interface ICategorRepository : IRepository<Category>
     {
+        void Delete(global::BlogAppBusiness.DTOs.Category.GetCategoryDto category);
     }
 }

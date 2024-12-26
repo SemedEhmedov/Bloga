@@ -60,5 +60,11 @@ namespace BlogAppBusiness.Services.Implementations
             _rep.Update(_mapper.Map<Category>(oldCategory));
             _rep.SaveChangesAsync();
         }
+        public async Task Delete(int id)
+        {
+            var category=GetById(id);
+            _rep.Delete(_mapper.Map<Category>(category));
+            _rep.SaveChangesAsync();
+        }
     }
 }

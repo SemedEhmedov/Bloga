@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\Bloga\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A5D4545-4BFD-41F7-BD6B-48A5E1BE73DA}|BlogAppBusiness\\BlogAppBusiness.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogappbusiness\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5D4545-4BFD-41F7-BD6B-48A5E1BE73DA}|BlogAppBusiness\\BlogAppBusiness.csproj|solutionrelative:blogappbusiness\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{548CF9B3-E4C5-4973-A137-318EE609841A}|BlogApp\\BlogApp.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{548CF9B3-E4C5-4973-A137-318EE609841A}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5D4545-4BFD-41F7-BD6B-48A5E1BE73DA}|BlogAppBusiness\\BlogAppBusiness.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogappbusiness\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A5D4545-4BFD-41F7-BD6B-48A5E1BE73DA}|BlogAppBusiness\\BlogAppBusiness.csproj|solutionrelative:blogappbusiness\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A5D4545-4BFD-41F7-BD6B-48A5E1BE73DA}|BlogAppBusiness\\BlogAppBusiness.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogappbusiness\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5D4545-4BFD-41F7-BD6B-48A5E1BE73DA}|BlogAppBusiness\\BlogAppBusiness.csproj|solutionrelative:blogappbusiness\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogapp.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogapp.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogapp.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogapp.dal\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E12A9F5-21BD-44CB-832D-4C1D393F7234}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A5D4545-4BFD-41F7-BD6B-48A5E1BE73DA}|BlogAppBusiness\\BlogAppBusiness.csproj|c:\\users\\i novbe\\desktop\\bloga\\blogappbusiness\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,23 +50,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppBusiness\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BlogAppBusiness\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppBusiness\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "BlogAppBusiness\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:57:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "BlogApp.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:59:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "BlogApp.DAL\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "BlogApp.DAL\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:59:08.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "BlogApp.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:59:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Context\\BlogDBContext.cs",
+              "RelativeDocumentMoniker": "BlogApp.DAL\\Context\\BlogDBContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\Context\\BlogDBContext.cs",
+              "RelativeToolTip": "BlogApp.DAL\\Context\\BlogDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:59:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppBusiness\\Services\\Implementations\\CategoryService.cs",
               "RelativeDocumentMoniker": "BlogAppBusiness\\Services\\Implementations\\CategoryService.cs",
               "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppBusiness\\Services\\Implementations\\CategoryService.cs",
               "RelativeToolTip": "BlogAppBusiness\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwDcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:45:44.679Z"
+              "WhenOpened": "2024-12-26T07:45:44.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppBusiness\\Mapper\\AutoMapper.cs",
               "RelativeDocumentMoniker": "BlogAppBusiness\\Mapper\\AutoMapper.cs",
@@ -58,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CreateCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppBusiness\\DTOs\\Category\\CreateCategoryDto.cs",
               "RelativeDocumentMoniker": "BlogAppBusiness\\DTOs\\Category\\CreateCategoryDto.cs",
@@ -70,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UpdateCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppBusiness\\DTOs\\Category\\UpdateCategoryDto.cs",
               "RelativeDocumentMoniker": "BlogAppBusiness\\DTOs\\Category\\UpdateCategoryDto.cs",
@@ -82,13 +168,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BlogApp\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BlogApp\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA9wDQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T07:38:51.278Z",
               "EditorCaption": ""
