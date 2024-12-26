@@ -15,6 +15,7 @@ namespace BlogAppBusiness.Mapper
         {
             CreateMap<GetCategoryDto,Category>().ReverseMap();
             CreateMap<CreateCategoryDto, Category>().ReverseMap();
+            CreateMap<UpdateCategoryDto, Category>().ReverseMap();
         }
     }
 }

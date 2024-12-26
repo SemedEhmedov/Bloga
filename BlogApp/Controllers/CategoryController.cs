@@ -30,7 +30,7 @@ namespace BlogApp.Controllers
 
         }
         [HttpPost]
-        public async Task<IActionResult> Create(CreateCategoryDto dto)
+        public async Task<IActionResult> Create([FromForm]CreateCategoryDto dto)
         {
             try
             {
@@ -41,15 +41,18 @@ namespace BlogApp.Controllers
                 return BadRequest(ex.Message);
             }
         }
-        public IActionResult Update()
+        [HttpPut]
+        public async Task<IActionResult> Update([FromForm] UpdateCategoryDto dto)
         {
             try
             {
-            
+                await categoryService.Update(dto);
+                return Ok();
             }
-            catch
-            {
 
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
             }
         }
     }

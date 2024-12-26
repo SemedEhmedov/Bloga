@@ -4750,23 +4750,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\I Novbe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\BlogApp.DAL.csproj",
       "projectName": "BlogApp.DAL",
-      "projectPath": "C:\\Users\\user\\source\\repos\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\BlogApp\\BlogApp.DAL\\obj\\",
+      "projectPath": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\BlogApp.DAL.csproj",
+      "packagesPath": "C:\\Users\\I Novbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\I Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4775,14 +4775,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\BlogApp\\BlogAppCore\\BlogAppCore.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\BlogApp\\BlogAppCore\\BlogAppCore.csproj"
+            "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppCore\\BlogAppCore.csproj": {
+              "projectPath": "C:\\Users\\I Novbe\\Desktop\\Bloga\\BlogAppCore\\BlogAppCore.csproj"
             }
           }
         }
@@ -4795,9 +4796,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -4834,7 +4834,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

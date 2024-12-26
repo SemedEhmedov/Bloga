@@ -38,7 +38,7 @@ namespace BlogAppBusiness.Services.Implementations
             return dto;
         }
 
-        async Task<GetAllCategoryDto> ICategoryService.Create(CreateCategoryDto category)
+        public async Task<GetAllCategoryDto> ICategoryService.Create(CreateCategoryDto category)
         {
             if(await _rep.IsExsist(x => x.Name == category.Name))
             {
@@ -46,13 +46,19 @@ namespace BlogAppBusiness.Services.Implementations
             }
             var Category = _mapper.Map<Category>(category);
             var newCategory = await _rep.Create(Category);  
-            await _rep.SaveChangesAsync();
+            _rep.SaveChangesAsync();
             return _mapper.Map<GetCategoryDto>(newCategory);
         }
-
-        GetCategoryDto ICategoryService.GetById(int id)
+        public async Task Update(UpdateCategoryDto dto)
         {
-            throw new NotImplementedException();
+            var oldCategory = GetById(dto.Id);
+            if (await _rep.IsExsist(c => c.Name == dto.Name))
+            {
+                throw new Exception();
+            }
+            oldCategory = _mapper.Map<GetCategoryDto>(dto);
+            _rep.Update(_mapper.Map<Category>(oldCategory));
+            _rep.SaveChangesAsync();
         }
     }
 }

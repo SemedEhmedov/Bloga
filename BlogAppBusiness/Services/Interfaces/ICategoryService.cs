@@ -11,5 +11,6 @@ namespace BlogAppBusiness.Services.Interfaces
     {
         Task<GetAllCategoryDto> Create(CreateCategoryDto category);
         GetCategoryDto GetById(int id);
+        Task Update(UpdateCategoryDto dto);
     }
 }
